@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "asset_id": "c2823796-c5df-462a-bf2c-68ea4c89c56e",
+  "asset_id": "12e7ec5f-d21e-4d0f-9d6e-fb7f2dd9f896",
   "project_id": "ee338762-a4cf-4d8b-b653-6373c30ee5d6",
-  "url": "/__l5e/assets-v1/c2823796-c5df-462a-bf2c-68ea4c89c56e/norax-logo.png",
-  "r2_key": "a/v1/ee338762-a4cf-4d8b-b653-6373c30ee5d6/c2823796-c5df-462a-bf2c-68ea4c89c56e/norax-logo.png",
-  "original_filename": "norax-logo.png",
-  "size": 19431,
+  "url": "/__l5e/assets-v1/12e7ec5f-d21e-4d0f-9d6e-fb7f2dd9f896/norax-logo-cropped.png",
+  "r2_key": "a/v1/ee338762-a4cf-4d8b-b653-6373c30ee5d6/12e7ec5f-d21e-4d0f-9d6e-fb7f2dd9f896/norax-logo-cropped.png",
+  "original_filename": "norax-logo-cropped.png",
+  "size": 51223,
   "content_type": "image/png",
-  "created_at": "2026-09-19T14:17:53Z"
+  "created_at": "2026-09-19T14:19:32Z"
 }
